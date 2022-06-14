@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/backspace_FILL0_wght200_GRAD-25_opsz48.png</file>
+    <file>icons/calculate_FILL1_wght700_GRAD0_opsz48.png</file>
+    <file>icons/backspace_FILL1_wght300_GRAD0_opsz40.png</file>
+    <file>icons/backspace_FILL1_wght400_GRAD0_opsz48.png</file>
+    <file>icons/backspace_FILL1_wght400_GRAD-25_opsz48.png</file>
+    <file>icons/backspace_FILL1_wght400_GRAD200_opsz48.png</file>
+    <file>icons/calculate_FILL0_wght200_GRAD-25_opsz48.png</file>
+  </qresource>
+</RCC>
