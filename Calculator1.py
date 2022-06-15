@@ -14,9 +14,6 @@ operations = {
     '/': truediv
 }
 
-error_zero_div = 'Division by zero'
-error_undefined = 'Result is undefined'
-
 
 class Calculator(QMainWindow):
     def __init__(self):
