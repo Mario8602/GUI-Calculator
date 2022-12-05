@@ -1,11 +1,28 @@
 # GUI-Calculator
-GUI Calculator
 
 
-
-CALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCALCULATORCA
-
+***
 
 
-![calculate_FILL0_wght200_GRAD-25_opsz48](https://user-images.githubusercontent.com/86917587/173619001-dcf0f467-b873-4f71-b58c-1af427068034.png)
+Калькулятор Windows с графическим интерфейсом.
+
+
+***
+
+## Запуск приложения
+
+1) Скачайте проект с Github
+2) Активируйте виртуальное окружение
+
+       python -m venv venv
+    
+3) Установите необходимые библиотеки с помощью
+
+       pip install -r requirements.txt
+     
+4) Запустите файл 
+
+       calculator1.py
+
+![image](https://user-images.githubusercontent.com/86917587/205645792-2b122917-6e58-4b9c-aacb-285d2ffcad5c.png)
 
